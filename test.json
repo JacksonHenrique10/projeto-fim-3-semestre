@@ -1,0 +1,32 @@
+{
+    "cpf": "123456789-11",
+    "nome": "Luiz",
+    "data_nasc": "2005/10/12",
+    "genero": "M",
+    "email": "luiz@gmail.com",
+    "endereco": [
+        {
+            "logradouro": "Rua São Francisco",
+            "bairro": "João Paulo",
+            "estado": "SP",
+            "numero": "153",
+            "complemento": "Casa",
+            "cep": "13174-100"
+        }
+    ],
+    "telefone": [
+        {
+            "numero": "(19) 98878-3024"
+        },
+        {
+            "numero": "(19) 98872-6463"
+        }
+    ],
+    "funcionario": [
+        {
+            "data_admissao": "2024/06/10",
+            "crm": "1234"
+        }
+    ]
+}
+
